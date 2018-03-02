@@ -7,5 +7,5 @@ A set of .ino files for TeensyLC made for a jousting game (for IMS390S "Burn the
 ## TeensyLC Pin and Control Layout
 PIN | KEY | CONTROL
 --- | --- | -------
-5 | 1 | Hit
+5 | 1 or 2 | Hit
 7 | R | Reset
