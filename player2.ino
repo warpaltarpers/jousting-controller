@@ -14,7 +14,6 @@ void setup() {
   btn.attach(kButtonPin, INPUT_PULLUP);
   btn.interval(kButtonInterval);
   delay(500);
-  pinMode(kTouch, INPUT_PULLUP);
 }
 
 void loop() {
